@@ -71,7 +71,5 @@ Quick start
 
   See './LICENSE' for more information.
 
-  * Adroit Anurag
-  https://github.com/AdroitAnurag
-  * Anonymous Dude
-  https://github.com/AnonymousDude4444
+  * ANURAG BALA
+  https://github.com/ANURAG-BALA
